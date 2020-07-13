@@ -149,9 +149,7 @@ span.highlight {
 .our-menu-right img {
     opacity: 0.75;
 }
-
 /* contact */
-
 .contact-area h1 {
     margin-bottom: 50px;
 }
@@ -163,7 +161,7 @@ span.highlight {
 .contact-area p {
     margin: 10px 0;
 }
-form.contact-form input {
+.contact-form input {
     width: 100%;
     padding: 15px 7px;
     border: none;
