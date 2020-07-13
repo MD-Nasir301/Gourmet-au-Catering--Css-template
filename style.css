@@ -150,4 +150,41 @@ span.highlight {
     opacity: 0.75;
 }
 
+/* contact */
 
+.contact-area h1 {
+    margin-bottom: 50px;
+}
+.contact-area h3 {
+    letter-spacing: normal;
+    color: gray;
+    font-weight: 600;
+}
+.contact-area p {
+    margin: 10px 0;
+}
+form.contact-form input {
+    width: 100%;
+    padding: 15px 7px;
+    border: none;
+    border-bottom: 1px solid #bbbbbb;;
+    margin: 10px 0;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.submit-btn {
+    display: inline-block;
+    padding: 10px 15px;
+    border: navajowhite;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-top: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/* footer */
+.footer-area {
+    padding: 45px;
+    margin-top: 80px;
+    background: #f1f1f1;
+    text-align: center;
+}
